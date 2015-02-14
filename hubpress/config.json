@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "42-defined",
-    "repositoryName": "42-defined.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"42-defined","repositoryName":"42-defined.github.io","branch":"master","cname":""},"site":{"title":"42 findings","postsPerPage":"2","url":"http://42-defined.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://42-defined.github.io/themes/Casper"}}
