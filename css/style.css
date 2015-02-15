@@ -146,10 +146,10 @@ a {
 
 /* Browser mockup */
 .window-mockup {
-	background-color: #f0f0f0; /* #f0ece0 */
-	background-image: url(../images/window.png);
-	background-repeat: no-repeat;
-	background-position: 14px center;
+	/*background-color: #f0f0f0; /* #f0ece0 */ */
+	/*background-image: url(../images/window.png);*/*/
+	/*background-repeat: no-repeat;*/
+	/*background-position: 14px center;*/
 	border-radius: 10px 10px 0 0;
 	height: 42px;
 	overflow: hidden;
