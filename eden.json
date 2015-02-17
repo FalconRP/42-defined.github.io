@@ -103,7 +103,7 @@
 					"link": "http://www.falcondayzrp.com/forum/m/27611258/viewthread/19186556-gentlemans-united-nations-tracking-society",
 					"pin":"circularblue",
 					"category": "factions",
-					"thumbnail": "images/eden/guntshouse.jpg",
+					"thumbnail": "images/eden/gunts.jpg",
 					"x": "0.4514",
 					"y": "0.5625"
 				},
@@ -130,13 +130,13 @@
 					"y": "0.5373"
 				},
 				{
-					"id":"wellhouse",
+					"id":"wellnextred",
 					"title":"Adam's Stop n' Shop",
 					"description":"<p>A place to share information on different people or groups so that danger zones could be discussed with the Sherriff to warn other people or a place to trade supplies such as miscellaneous items e.g.. sewing kits, certain melee weapons batteries but no guns or ammo as this could either enable a robbery or a killer.</p>",
 					"link": "",
 					"pin":"circulargreen",
 					"category": "residents",
-					"thumbnail": "images/eden/oppositewell.jpg",
+					"thumbnail": "images/eden/housewellred.jpg",
 					"x": "0.6494",
 					"y": "0.5159"
 				},
