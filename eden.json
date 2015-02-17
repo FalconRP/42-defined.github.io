@@ -130,15 +130,26 @@
 					"y": "0.5373"
 				},
 				{
-					"id":"setuphouse",
-					"title":"Crafts R US",
-					"description":"<p>This house is a shared apartment between Anton Pushkinov, Denise Michael and John Woodsmen. Any people interested in buying John Woodsmen’s handcrafted goods are welcome to stay in our living room after receiving an invitation. The office room however is exclusive to the owners of the house. Feel free to take some feathers from our chicken coop. Locked doors may only be unlocked by the owners of the house. Unlocking the doors from the outside while not being an owner is considered thievery. Trespassers will be shot.</p>",
+					"id":"wellhouse",
+					"title":"Adam's Stop n' Shop",
+					"description":"<p>A place to share information on different people or groups so that danger zones could be discussed with the Sherriff to warn other people or a place to trade supplies such as miscellaneous items e.g.. sewing kits, certain melee weapons batteries but no guns or ammo as this could either enable a robbery or a killer.</p>",
 					"link": "",
 					"pin":"circulargreen",
 					"category": "residents",
+					"thumbnail": "images/eden/oppositewell.jpg",
+					"x": "0.6494",
+					"y": "0.5159"
+				},
+				{
+					"id":"setuphouse",
+					"title":"Crafts R US",
+					"description":"<p>This house is a shared apartment between Anton Pushkinov, Denise Michael and John Woodsmen. Any people interested in buying John Woodsmen’s handcrafted goods are welcome to stay in our living room after receiving an invitation. The office room however is exclusive to the owners of the house. Feel free to take some feathers from our chicken coop. Locked doors may only be unlocked by the owners of the house. Unlocking the doors from the outside while not being an owner is considered thievery. Trespassers will be shot.</p>",
+					"link": "http://youtu.be/fY2LoLPsizI?list=PLQAdVAQ12CmyZNzebLc6unj9YTVbBC_Hm",
+					"pin":"circulargreen",
+					"category": "residents",
 					"thumbnail": "images/eden/setup.jpg",
-					"x": "0.6113",
-					"y": "0.6263"
+					"x": "0.6114",
+					"y": "0.3263"
 				},
 				
 				
