@@ -43,40 +43,6 @@
 					"x": "0.5006",
 					"y": "0.5762"
 				},
-				
-				{
-					"id":"waterpump",
-					"title":"Waterpump",
-					"description":"<p>Waterpump.....Not filled with scotsh I am afraid</p>",
-					"link": "",
-					"pin":"circularyellow",
-					"category": "supplies",
-					"thumbnail": "images/eden/well.jpg",
-					"x": "0.6730",
-					"y": "0.5310"
-				},
-				{
-					"id":"orderhouse",
-					"title":"Office of The Order","description":"",
-					"description":"<p></p>",
-					"link": "http://www.falcondayzrp.com/forum/m/27611258/viewthread/18421112-order",
-					"pin":"circularblue",
-					"category": "factions",
-					"thumbnail": "images/eden/order.jpg",
-					"x": "0.4709",
-					"y": "0.5746"
-				},
-				{
-					"id":"serjhouse",
-					"title":"Serj's House",
-					"description":"<p>A place where you can find some interesting information about the whole of Chernarus, the inhabitants and the Rent a Truck Service itself at the same time.</p>",
-					"link": "",
-					"pin":"circulargreen",
-					"category": "residents",
-					"thumbnail": "images/eden/serg.jpg",
-					"x": "0.4736",
-					"y": "0.5958"
-				},
 				{
 					"id":"tavern",
 					"title":"Tavern",
@@ -100,6 +66,26 @@
 					"y": "0.5255"
 				},
 				{
+					"id": "boxing_barn",
+					"title": "Bare-Knuckle-Fight-Barn",
+					"description": "<p>Fight barn, solve your disputes, or join in on a arranged competitions among your fellow humanoids. No dirty tricks! </p>",
+					"pin": "circular",
+					"thumbnail": "images/eden/fightbarn.jpg",
+					"category": "official",
+					"x": "0.4655",
+					"y": "0.6273"
+				},				{
+					"id":"orderhouse",
+					"title":"Office of The Order",
+					"description":"<p></p>",
+					"link": "http://www.falcondayzrp.com/forum/m/27611258/viewthread/18421112-order",
+					"pin":"circularblue",
+					"category": "factions",
+					"thumbnail": "images/eden/order.jpg",
+					"x": "0.4709",
+					"y": "0.5746"
+				},
+				{
 					"id":"edenhunter",
 					"title":"The Huntsmen of Eden",
 					"description":"<p>The Hunters- A group of individuals, dedicated themself to supply and help Eden in any way they can</p>",
@@ -111,6 +97,65 @@
 					"y": "0.4991"
 				},
 				{
+					"id":"guntshouse",
+					"title":"Benchley House",
+					"description":"<p>Town house of the Gentlemans United Nations Tracking Society, full of scotch</p>",
+					"link": "http://www.falcondayzrp.com/forum/m/27611258/viewthread/19186556-gentlemans-united-nations-tracking-society",
+					"pin":"circularblue",
+					"category": "factions",
+					"thumbnail": "images/eden/guntshouse.jpg",
+					"x": "0.4514",
+					"y": "0.5625"
+				},
+				{
+					"id":"serjhouse",
+					"title":"Serj's House",
+					"description":"<p>A place where you can find some interesting information about the whole of Chernarus, the inhabitants and the Rent a Truck Service itself at the same time.</p>",
+					"link": "",
+					"pin":"circulargreen",
+					"category": "residents",
+					"thumbnail": "images/eden/serg.jpg",
+					"x": "0.4736",
+					"y": "0.5958"
+				},
+				{
+					"id":"wellhouse",
+					"title":"Luke Fletcher's House",
+					"description":"<p>A friendly trading hub that provides the survivors of the apocalypse with the necessary survival equipment. You can find anything from guns and ammo to fruit seeds at the Eden trade hub.</p>",
+					"link": "",
+					"pin":"circulargreen",
+					"category": "residents",
+					"thumbnail": "images/eden/wellhouse.jpg",
+					"x": "0.6648",
+					"y": "0.5373"
+				},
+				{
+					"id":"setuphouse",
+					"title":"Crafts R US",
+					"description":"<p>This house is a shared apartment between Anton Pushkinov, Denise Michael and John Woodsmen.
+Any people interested in buying John Woodsmen’s handcrafted goods are welcome to stay in our living room after receiving an invitation. The office room however is exclusive to the owners of the house. Feel free to take some feathers from our chicken coop. Locked doors may only be unlocked by the owners of the house. Unlocking the doors from the outside while not being an owner is considered thievery. Trespassers will be shot.</p>",
+					"link": "",
+					"pin":"circulargreen",
+					"category": "residents",
+					"thumbnail": "images/eden/setup.jpg",
+					"x": "0.6113",
+					"y": "0.6263"
+				},
+				
+				
+				
+				{
+					"id":"waterpump",
+					"title":"Waterpump",
+					"description":"<p>Waterpump.....Not filled with scotsh I am afraid</p>",
+					"link": "",
+					"pin":"circularyellow",
+					"category": "supplies",
+					"thumbnail": "images/eden/well.jpg",
+					"x": "0.6730",
+					"y": "0.5310"
+				},
+				{
 					"id":"gasstation",
 					"title":"Gas station",
 					"description":"<p>Gas station......The pumps are not filled with scotch either I am afraid, feel free to try it out though</p>",
@@ -120,18 +165,7 @@
 					"thumbnail": "images/eden/gas.jpg",
 					"x": "0.5070",
 					"y": "0.7209"
-				},
-				{
-					"id": "boxing_barn",
-					"title": "Bare-Knuckle-Fight-Barn",
-					"description": "<p>Fight barn, solve your disputes, or join in on a arranged competitions among your fellow humanoids. No dirty tricks! </p>",
-					"pin": "circular",
-					"thumbnail": "images/eden/fightbarn.jpg",
-					"category": "official",
-					"x": "0.4655",
-					"y": "0.6273"
 				}
-				
 			]
 		}
 
