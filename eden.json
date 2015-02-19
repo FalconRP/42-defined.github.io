@@ -107,17 +107,7 @@
 					"x": "0.4514",
 					"y": "0.5625"
 				},
-				{
-					"id":"serjhouse",
-					"title":"Serj's House",
-					"description":"<p>A place where you can find some interesting information about the whole of Chernarus, the inhabitants and the Rent a Truck Service itself at the same time.</p>",
-					"link": "",
-					"pin":"circulargreen",
-					"category": "residents",
-					"thumbnail": "images/eden/serg.jpg",
-					"x": "0.4736",
-					"y": "0.5958"
-				},
+			
 				{
 					"id":"wellhouse",
 					"title":"Luke Fletcher's House",
