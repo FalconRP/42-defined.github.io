@@ -1,0 +1,31 @@
+{
+	"mapwidth":"1064",
+	"mapheight":"1084",
+	"categories": [
+		
+	],
+	"levels":[
+		{
+			"id":"eden",
+			"title":"Eden",
+			"map":"images/abaddon/abaddon1.png",
+			"minimap": "images/maps/france-mini.jpg",
+			
+			"locations":[
+				{
+					"id":"haunted",
+					"title":"The Haunted House",
+					"about": "",
+					"description":"<p></p>",
+					"link": "",
+					"pin":"circular",
+                    "category": "official",
+					"x": "0.4899",
+					"y": "0.5215"
+				}
+			]
+		}
+
+	]
+	
+}

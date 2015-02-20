@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<title>FalconDayZRP Interactive Map Of Abaddon</title>
+
+		<!-- Viewport for Responsivity -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<meta name="description" content="Interactive map of Abaddon from Falcon DayZ RP">
+
+		<!-- Stylesheets -->
+		<link href='http://fonts.googleapis.com/css?family=Maven+Pro:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+		<link rel="stylesheet" type="text/css" href="mapplic/mapplic.css">
+		<!-- Internet Explorer -->
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="mapplic/mapplic-ie.css">
+			<script type="text/javascript" src="js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="wrap">
+
+		
+
+			<!-- Site content -->
+			<div>
+
+				<section >
+				
+
+					<!-- Map -->
+					<div >
+						<div >
+							<div ></div>
+						</div>
+						<div id="mapplic"></div>
+					</div>
+
+					
+				</section>
+
+				
+
+				
+
+			
+		</div>
+		
+		<!-- Site footer -->
+			<div >
+					<span>Created with  <a target="blank" href="http://codecanyon.net/item/mapplic-custom-interactive-map-jquery-plugin/6275001?WT.oss_phrase=building&WT.oss_rank=18&WT.z_author=sekler&WT.trending=trending&WT.ac=search_list">Mapplic </a></span>
+				</div>
+		</div>
+
+		<!-- Scripts -->
+		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="js/hammer.min.js"></script>
+		<script type="text/javascript" src="js/jquery.easing.js"></script>
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/smoothscroll.js"></script>
+		<script type="text/javascript" src="mapplic/mapplic.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#mapplic').mapplic({
+					source: 'abaddon.json',
+					selector: '#regions > *',
+					height: 494,
+					sidebar: true,
+					search: false,
+					minimap: false,
+					locations: true,
+					deeplinking: true,
+					fullscreen: false,
+					hovertip: true,
+					developer: true,
+					maxscale: 3,
+					zoom: 3
+				});
+
+				$('.usage').click(function(e) {
+					e.preventDefault();
+					
+					$('.editor-window').slideToggle(200);
+				});
+
+				$('.editor-window .window-mockup').click(function() {
+					$('.editor-window').slideUp(200);
+				});
+			});
+		</script>
+	</body>
+</html>
