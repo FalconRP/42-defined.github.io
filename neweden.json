@@ -1,0 +1,63 @@
+{
+	"mapwidth":"1485",
+	"mapheight":"1447",
+	"categories": [
+		{
+			"id": "official",
+			"title": "Official Buildings of Eden",
+			"show": "true"
+		},
+		{
+			"id": "factions",
+			"title": "Factions and Settlements",
+			"show": "true"
+		},
+		{
+			"id": "residents",
+			"title": "Residents",
+			"show": "true"
+		},
+		{
+			"id": "supplies",
+			"title": "Supplies",
+			"show": "true"
+		}
+	],
+	"levels":[
+		{
+			"id":"eden",
+			"title":"Eden",
+			"map":"images/neweden/eden.png",
+			"minimap": "images/maps/france-mini.jpg",
+			
+			"locations":[
+				{
+					"id":"police",
+					"title":"Sheriff's Office",
+					"about": "Eden's law",
+					"description":"<p>The official building of the maintainers of Eden. Here is where they oversee Eden, if there is any disputes to be solved, messages to be given, or newcomers to the town, seek out this building and see if the Sheriff is home. (If he is not, he is most likely in the forest, shooting squirrels with his magnum, check back later in that case)</p><img src=\"images/eden/police_large.jpg\">",
+					"link": "",
+					"pin":"circular",
+                    "category": "official",
+					"thumbnail": "images/eden/police.jpg",
+					"x": "0.5461",
+					"y": "0.5082"
+				},
+
+				{
+					"id":"waterpump",
+					"title":"Waterpump",
+					"description":"<p>Waterpump.....Not filled with scotsh I am afraid</p>",
+					"link": "",
+					"pin":"circularyellow",
+					"category": "supplies",
+					"thumbnail": "images/eden/well.jpg",
+					"x": "0.5376",
+					"y": "0.5065"
+				}
+			]
+		}
+
+	]
+	
+}
