@@ -35,11 +35,11 @@
 					"id":"police",
 					"title":"Sheriff's Office",
 					"about": "Eden's law",
-					"description":"<p>The official building of the maintainers of Eden. Here is where they oversee Eden, if there is any disputes to be solved, messages to be given, or newcomers to the town, seek out this building and see if the Sheriff is home. (If he is not, he is most likely in the forest, shooting squirrels with his magnum, check back later in that case)</p><img src=\"images/eden/police_large.jpg\">",
+					"description":"<p>The official building of the maintainers of Eden. Here is where they oversee Eden, if there is any disputes to be solved, messages to be given, or newcomers to the town, seek out this building and see if the Sheriff is home. (If he is not, he is most likely in the forest, shooting squirrels with his magnum, check back later in that case)</p>",
 					"link": "",
 					"pin":"circular",
                     "category": "official",
-					"thumbnail": "images/eden/police.jpg",
+					"thumbnail": "images/neweden/sheriff.jpg",
 					"x": "0.5401",
 					"y": "0.5459"
 				},
@@ -51,7 +51,7 @@
 					"link": "",
 					"pin":"circularyellow",
 					"category": "supplies",
-					"thumbnail": "images/eden/well.jpg",
+					"thumbnail": "",
 					"x": "0.5159",
 					"y": "0.5361"
 				}
