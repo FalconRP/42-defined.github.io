@@ -40,8 +40,8 @@
 					"pin":"circular",
                     "category": "official",
 					"thumbnail": "images/eden/police.jpg",
-					"x": "0.5461",
-					"y": "0.5082"
+					"x": "0.5401",
+					"y": "0.5459"
 				},
 
 				{
@@ -52,8 +52,8 @@
 					"pin":"circularyellow",
 					"category": "supplies",
 					"thumbnail": "images/eden/well.jpg",
-					"x": "0.5376",
-					"y": "0.5065"
+					"x": "0.5159",
+					"y": "0.5361"
 				}
 			]
 		}
